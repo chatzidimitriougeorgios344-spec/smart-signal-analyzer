@@ -44,6 +44,7 @@ A Python project for real-time signal analysis using FFT, filters, and visual pl
 - 📧 Email: [chatzidimitriougeorgios344@gmail.com](mailto:chatzidimitriougeorgios344@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/georgios-chatzidimitriou](#)  
 - 🌐 GitHub: [github.com/chatzidimitriougeorgios344-spec](https://github.com/chatzidimitriougeorgios344-spec)
+- 🌍📲 Instagram : @_chatzidimitriou
 
 ---
 
