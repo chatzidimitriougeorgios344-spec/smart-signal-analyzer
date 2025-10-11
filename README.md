@@ -1,18 +1,18 @@
 # 🧠 Smart Signal Analyzer
 
-Ένα project σε Python για ανάλυση σημάτων σε πραγματικό χρόνο, με δυνατότητα εμφάνισης πολλαπλών γραφημάτων (plots) χρησιμοποιώντας `matplotlib`.
+A Python-based project for real-time signal analysis with FFT visualization and filtering tools, using `NumPy`, `SciPy`, and `Matplotlib`.
 
 ---
 
-## 🚀 Περιγραφή
+## 🚀 Overview
 
-Το Smart Signal Analyzer αναλύει δεδομένα σημάτων (π.χ. από αισθητήρες ή μετρήσεις) και τα απεικονίζει δυναμικά σε plots.  
-Στόχος του project είναι να αποτελέσει εργαλείο για εκπαίδευση και έρευνα στην Επεξεργασία Σημάτων.
+**Smart Signal Analyzer** allows you to generate, filter, and analyze signals, displaying their frequency content using FFT (Fast Fourier Transform).  
+This tool is designed for **educational and research purposes** in the field of signal processing.
 
 ---
 
-## ⚙️ Εγκατάσταση
+## ⚙️ Installation
 
-1. Κάνε clone το αποθετήριο:
+1. Clone the repository:
    ```bash
    git clone https://github.com/chatzidimitriougeorgios344-spec/smart-signal-analyzer.git
