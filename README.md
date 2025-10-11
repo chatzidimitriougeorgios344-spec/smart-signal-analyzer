@@ -1,18 +1,50 @@
-# 🧠 Smart Signal Analyzer
+# 👋 Hi there, I'm Georgios Chatzidimitriou
 
-A Python-based project for real-time signal analysis with FFT visualization and filtering tools, using `NumPy`, `SciPy`, and `Matplotlib`.
-
----
-
-## 🚀 Overview
-
-**Smart Signal Analyzer** allows you to generate, filter, and analyze signals, displaying their frequency content using FFT (Fast Fourier Transform).  
-This tool is designed for **educational and research purposes** in the field of signal processing.
+🎓 **Electrical & Computer Engineer** | 💻 **AI & Signal Processing Enthusiast**  
+Passionate about technology, data, and creating intelligent systems that connect theory with real-world applications.
 
 ---
 
-## ⚙️ Installation
+## 🚀 About Me
+- 🔬 Currently exploring **Signal Processing, Machine Learning, and AI applications**
+- 🧠 Strong interest in **cybersecurity**, **embedded systems**, and **automation**
+- 💡 Always curious about how **math and code** describe the real world
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/chatzidimitriougeorgios344-spec/smart-signal-analyzer.git
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+Python | C | C++ | MATLAB | Spyder Ide | HTML/CSS || Java || SQL||Ubuntu||
+
+**Tools & Libraries:**  
+NumPy | SciPy | Matplotlib | TensorFlow | OpenCV | Git  
+
+**Other Skills:**  
+Signal Analysis | Neural Networks | Data Visualization | FFT Filtering
+## 📡 MMANA-GAL Antenna
+
+Antenna modeling and analysis using **MMANA-GAL** for educational and experimental purposes.  
+Includes simulations of different antenna types and radiation patterns.  
+
+
+---
+
+## 📈 Projects
+
+🔹 [Smart Signal Analyzer](https://github.com/chatzidimitriougeorgios344-spec/smart-signal-analyzer)  
+A Python project for real-time signal analysis using FFT, filters, and visual plots.
+
+🔹 More projects coming soon!
+
+---
+
+## 📫 Contact Me
+- 📧 Email: [chatzidimitriougeorgios344@gmail.com](mailto:chatzidimitriougeorgios344@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/georgios-chatzidimitriou](#)  
+- 🌐 GitHub: [github.com/chatzidimitriougeorgios344-spec](https://github.com/chatzidimitriougeorgios344-spec)
+
+---
+
+⭐ *“The best way to predict the future is to create it.”*
