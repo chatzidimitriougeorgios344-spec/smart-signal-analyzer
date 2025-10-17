@@ -16,7 +16,7 @@ Passionate about technology, data, and creating intelligent systems that connect
 ## 🧰 Tech Stack
 
 **Languages:**  
-Python | C | C++ | MATLAB | Spyder Ide | HTML/CSS || Java || SQL||Ubuntu||
+Python | C | C++ | MATLAB | Spyder Ide | HTML/CSS || Java || SQL||Ubuntu||Jetbrains intellij ULTIMATE IDEA||
 
 **Tools & Libraries:**  
 NumPy | SciPy | Matplotlib | TensorFlow | OpenCV | Git  
